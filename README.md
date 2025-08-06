@@ -36,5 +36,5 @@ This project highlights how data analysis can reveal deep business insights from
 ## 📬 Contact
 
 **Kamrul Arefin**  
-📧 Email: your-arefin.offcial1@gmal.com  
+📧 Email: arefin.offcial1@gmal.com  
 
